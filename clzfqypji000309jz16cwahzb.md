@@ -13,7 +13,7 @@ tags: data-science, deep-learning
 
 * * ### 1\. Introduction
         
-        **Definition and Importance**
+        ### **Definition and Importance**
         
         **Image captioning** is the automated process of generating textual descriptions for images using machine learning models, combining computer vision and natural language processing. In **remote sensing**, this technology is crucial for quickly and consistently interpreting vast amounts of satellite and aerial imagery. It enhances data management by creating searchable metadata and supports real-time analysis for informed decision-making in fields like agriculture, disaster management, environmental monitoring, and urban planning. Automated captions streamline the interpretation process, providing valuable insights and aiding efficient data utilization.
         
